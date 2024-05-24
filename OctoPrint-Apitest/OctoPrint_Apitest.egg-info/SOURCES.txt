@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+OctoPrint_Apitest.egg-info/PKG-INFO
+OctoPrint_Apitest.egg-info/SOURCES.txt
+OctoPrint_Apitest.egg-info/dependency_links.txt
+OctoPrint_Apitest.egg-info/entry_points.txt
+OctoPrint_Apitest.egg-info/not-zip-safe
+OctoPrint_Apitest.egg-info/requires.txt
+OctoPrint_Apitest.egg-info/top_level.txt
+octoprint_apiTest/__init__.py
+octoprint_apiTest/static/css/apiTest.css
+octoprint_apiTest/static/js/apiTest.js
+octoprint_apiTest/static/less/apiTest.less
+octoprint_apiTest/templates/README.txt
+octoprint_apiTest/templates/apiTest_navbar.jinja2

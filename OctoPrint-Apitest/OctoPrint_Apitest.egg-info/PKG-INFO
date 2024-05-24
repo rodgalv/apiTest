@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: OctoPrint-Apitest
+Version: 0.1.0
+Summary: testing apr post
+Home-page: https://github.com/you/OctoPrint-Apitest
+Author: tyioul
+Author-email: you@example.com
+License: AGPLv3
+Requires-Python: >=3,<4
+Requires-Dist: OctoPrint
